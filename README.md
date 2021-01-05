@@ -1,6 +1,7 @@
 # Educat
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+This is a MEAN stack project done to assist the United Nations Sustainable Development Goal (SDG) #4, involving government schools in India. 
+
 
 ## Development server
 
