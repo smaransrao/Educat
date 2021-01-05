@@ -9,6 +9,12 @@ The application was made to help government schools in India that are severely u
 #### Frontend - Angular 8 + Angular Material
 #### Backend - NodeJS + Express
 
+### Note to Developers
+
+To run the application:
+1. Run "nodemon api/server.js" in one terminal to start the backend.
+2. Run "npm run proxy" in another server to render the frontend view in browser.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
