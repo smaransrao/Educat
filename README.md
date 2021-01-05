@@ -2,6 +2,12 @@
 
 This is a MEAN stack project done to assist the United Nations Sustainable Development Goal (SDG) #4, involving government schools in India. 
 
+### Concept
+
+The application was made to help government schools in India that are severely understaffed for teachers. They can post their teaching requirements as an advertisement to reach out to volunteers who are interested in dedicating some of their time to help underprivilaged children in need. The application has two groups of users - Schools and Volunteers. Schools (usually government or municipality schools) can register by filling a form. In this form they will provide certain details that volunteers (general public) can view as an advertisement.
+
+### Frontend - Angular 8 + Angular Material
+### Backend - NodeJS + Express
 
 ## Development server
 
